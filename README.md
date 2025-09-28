@@ -16,7 +16,7 @@
 
   </div>
 
-  <h3 align="center">Nike Ecommerce w/ Devin AI</h3>
+  <h3 align="center">Nike Ecommerce</h3>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
